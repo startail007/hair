@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+}
+#Canvas01 {
+    position: relative;
+    display: block;
+    left: 0px;
+    top: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.InhibitSelect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
